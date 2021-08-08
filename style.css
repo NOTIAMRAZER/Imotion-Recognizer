@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.heading{
+    width:85%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px black dashed;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, .result_object_acuracy{
+    color: yellow;
+}
